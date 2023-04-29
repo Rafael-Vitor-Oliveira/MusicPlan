@@ -1,0 +1,96 @@
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #ADD8E6;
+    box-sizing: border-box;
+}
+main{
+    width: 450px;
+    background-color: #f9fafb;
+    border-radius: 20px;
+    margin: 150px auto 0;
+}
+.ImageMusic{
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+h2{
+    transition: 1s;
+    font-family: 'Rubik', sans-serif;
+    margin-top: 25px;
+}
+h2:hover{
+    transition: 1s;
+    color:hsl(245, 75%, 52%);
+}
+.description{
+    color: #808080;
+    font-family: 'Red Hat Display', sans-serif;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.optionPlan{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    background-color: #f3f4f6;
+    border: solid 2px #f3f4f6;
+    border-radius: 7px;
+    margin: 0 50px 0;
+}
+.iconMusic{
+    margin-right: 25px;
+}
+.annualPlan{
+    line-height: 8px;
+    margin: 0;
+}
+.plan{
+    font-weight: bold;
+    font-family: 'Red Hat Display', sans-serif;
+}
+.price{
+    color: #808080;
+    font-family: 'Red Hat Display', sans-serif;
+}
+.change{
+    margin-left: 100px;
+    font-family: 'Red Hat Display', sans-serif;
+    color: hsl(245, 75%, 52%);
+    text-decoration: underline;
+}
+.change:hover{
+    margin-left: 100px;
+    font-family: 'Red Hat Display', sans-serif;
+    color: hsl(245, 75%, 52%);
+    text-decoration: none;
+}
+.payment{
+    transition: 1s;
+    margin: 15px 50px 0;
+    font-family: 'Red Hat Display', sans-serif;
+    color: #fff;
+    padding: 10px;
+    border-radius: 7px;
+    border: solid 2px hsl(245, 75%, 52%);
+    background-color: hsl(245, 75%, 52%);
+    box-shadow:  2px 8px 10px#696969;
+}
+.payment:hover{
+    transition: 1s;
+    margin: 15px 50px 0;
+    font-family: 'Red Hat Display', sans-serif;
+    color: #fff;
+    padding: 10px;
+    border-radius: 7px;
+    border: solid 2px hsl(245, 75%, 62%);
+    background-color: hsl(245, 75%, 62%);
+    box-shadow:  2px 8px 10px#696969;
+}
+.cancelOrder{
+    color:#808080;
+    font-family: 'Red Hat Display', sans-serif;
+    padding: 0 0 20px;
+}
+
