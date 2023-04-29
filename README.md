@@ -9,9 +9,7 @@
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
-
 <br>
-
 <p align="center">
   <img alt="project" src=".github/viewPlan" width="100%">
 </p>
