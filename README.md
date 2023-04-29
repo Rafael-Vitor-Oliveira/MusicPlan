@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  <img alt="project" src=".github/viewPlan" width="100%">
+  <img alt="Project Music Plan" src=".github/viewPlan" width="100%">
 </p>
 
 ## 🚀 Tecnologias
