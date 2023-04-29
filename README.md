@@ -11,7 +11,7 @@
 </p>
 <br>
 <p align="center">
-  <img alt="Project Music Plan" src=".github/viewPlan" width="100%">
+  <img alt="Project Music Plan" src="./.github/pageMusicPlan.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
